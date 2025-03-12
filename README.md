@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Krisna+Santosa;Junior+Web+Dev BNSP Certified;ML Engineer Certified" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=500&height=100&lines=Thanks+for+visiting!;Let's+connect;and+build+together!" alt="Typing SVG" />
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krisnasantosa15&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="krisnasantosa15" />
   <img src="https://img.shields.io/github/followers/krisnasantosa15?style=for-the-badge&logo=github&color=ffc83d" alt="Followers" />
